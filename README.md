@@ -24,6 +24,17 @@ Basic crisis-response guardrails
 
 Clean and minimal Streamlit UI
 
+# 📸 Screenshots
+🏠 Home Interface
+![Home](./Home.png)
+
+💬 Chat Example
+![Chat Example](./Chat.png)
+
+⚠ Crisis Response
+![Crisis Handling](./crisis.png)
+
+
 # 🛠 Tech Stack
 
 Python
