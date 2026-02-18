@@ -1,5 +1,5 @@
-!pip install groq
-!pip install dotenv
+pip install groq
+pip install dotenv
 import streamlit as st
 import os
 from groq import Groq
@@ -121,4 +121,5 @@ if user_input:
 # ----------------------------
 st.sidebar.markdown("---")
 st.sidebar.write(f"Messages sent: {len(st.session_state.messages)//2}")
+
 
